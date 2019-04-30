@@ -1,0 +1,107 @@
+[
+	{
+		"abbr": "JHR",
+		"name": "Johor",
+		"capital": "Johor Bahru",
+		"lat": "1.455556",
+		"long": "103.761111"
+	},
+	{
+		"abbr": "KDH",
+		"name": "Kedah",
+		"capital": "Alor Setar",
+		"lat": "6.118333",
+		"long": "100.369444"
+	},
+	{
+		"abbr": "KTN",
+		"name": "Kelantan",
+		"capital": "Kota Bharu",
+		"lat": "6.133333",
+		"long": "102.25"
+	},
+	{
+		"abbr": "MLK",
+		"name": "Malacca",
+		"capital": "Malacca City",
+		"lat": "2.194444",
+		"long": "102.248611"
+	},
+	{
+		"abbr": "NSN",
+		"name": "Negeri Sembilan",
+		"capital": "Seremban",
+		"lat": "2.722222",
+		"long": "101.941667"
+	},
+	{
+		"abbr": "PHG",
+		"name": "Pahang",
+		"capital": "Kuantan",
+		"lat": "3.816667",
+		"long": "103.333333"
+	},
+	{
+		"abbr": "PNG",
+		"name": "Penang",
+		"capital": "George Town",
+		"lat": "5.414444",
+		"long": "100.329167"
+	},
+	{
+		"abbr": "PRK",
+		"name": "Perak",
+		"capital": "Ipoh",
+		"lat": "4.597222",
+		"long": "101.075"
+	},
+	{
+		"abbr": "PLS",
+		"name": "Perlis",
+		"capital": "Kangar",
+		"lat": "6.433333",
+		"long": "100.2"
+	},
+	{
+		"abbr": "TRG",
+		"name": "Terengganu",
+		"capital": "Kuala Terengganu",
+		"lat": "5.329167",
+		"long": "103.136111"
+	},
+	{
+		"abbr": "KUL",
+		"name": "Kuala Lumpur",
+		"capital": "Kuala Lumpur",
+		"lat": "3.147778",
+		"long": "101.695278"
+	},
+	{
+		"abbr": "PJY",
+		"name": "Putrajaya",
+		"capital": "Putrajaya",
+		"lat": "2.943095",
+		"long": "101.699373"
+	},
+	{
+		"abbr": "LBN",
+		"name": "Labuan",
+		"capital": "Victoria",
+		"lat": "5.283333",
+		"long": "115.233333"
+	},
+	{
+		"abbr": "SBH",
+		"name": "Sabah",
+		"capital": "Kota Kinabalu",
+		"lat": "5.975",
+		"long": "116.0725"
+	},
+	{
+		"abbr": "SWK",
+		"name": "Sarawak",
+		"capital": "Kuching",
+		"lat": "1.561111",
+		"long": "110.341667"
+	}
+]
