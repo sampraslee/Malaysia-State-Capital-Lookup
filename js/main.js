@@ -4,7 +4,7 @@ const searchResultsList = document.getElementById('search-response');
 // Asynchronous function to search through the JSON file and return relevant results based on users input
 const searchStates = async (searchText) => {
 	// Fetch data
-	const results = await fetch('../data/states.json');
+	const results = await fetch('https://sampraslee.github.io/Malaysia-State-Capital-Lookup/data/states.json');
 	const states = await results.json();
 	// Filter data
 	let matches = states.filter((state) => {
